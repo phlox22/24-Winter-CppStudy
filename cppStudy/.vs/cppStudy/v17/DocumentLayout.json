@@ -1,0 +1,753 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\parkj\\source\\repos\\cppStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RacingCarClassBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\RacingCarClassBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RacingCarOuterFunc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\RacingCarOuterFunc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RacingCarEnum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\RacingCarEnum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RacingCarFuncAdd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\RacingCarFuncAdd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C3-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\\uBB38\uC81C3-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RacingCar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\RacingCar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C2-4(2).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\\uBB38\uC81C2-4(2).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C2-4(1).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\\uBB38\uC81C2-4(1).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\StdCPPF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\StdCPPF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C2-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\\uBB38\uC81C2-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uC608\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\\uC608\uC81C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\NewObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\NewObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\NewDelete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\NewDelete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\MemMalFree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\MemMalFree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C2-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\\uBB38\uC81C2-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RefReturnThree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\RefReturnThree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RefReturnTwo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\RefReturnTwo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RefReturnONe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\RefReturnONe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C2-1(3).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\\uBB38\uC81C2-1(3).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C2-1(2).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\\uBB38\uC81C2-1(2).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RefSwap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\RefSwap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C2-1(1).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\\uBB38\uC81C2-1(1).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RefPtr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\RefPtr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RefArrElem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\RefArrElem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\Referen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\Referen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\TrueAndFalse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\TrueAndFalse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\DataTypeBool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\DataTypeBool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\NameAlias.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\NameAlias.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\NameSp1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\NameSp1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\UsingDcl3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\UsingDcl3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\UsingDcl2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\UsingDcl2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C1-4(s1).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\\uBB38\uC81C1-4(s1).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\UsingDcl1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\UsingDcl1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C1-4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\\uBB38\uC81C1-4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C1-4(s2).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\\uBB38\uC81C1-4(s2).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\NameSp2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\NameSp2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\NameSp3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\NameSp3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\InlineFunc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\InlineFunc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cppStudy\\\uBB38\uC81C4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\stringIO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\stringIO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\BetweenAdder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\BetweenAdder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\SimpleAdder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\SimpleAdder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF02BDCA-7FFD-4CBE-B03D-9FC02C68503B}|cppStudy\\cppStudy.vcxproj|solutionrelative:cppStudy\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cppStudy\\\uBB38\uC81C3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cppStudy\\\uBB38\uC81C2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cppStudy\\\uBB38\uC81C1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RacingCarClassBase.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RacingCarClassBase.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\RacingCarClassBase.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RacingCarClassBase.cpp",
+              "RelativeToolTip": "cppStudy\\RacingCarClassBase.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-07T04:28:56.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RacingCarOuterFunc.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RacingCarOuterFunc.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\RacingCarOuterFunc.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RacingCarOuterFunc.cpp",
+              "RelativeToolTip": "cppStudy\\RacingCarOuterFunc.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-07T04:27:19.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RacingCarEnum.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RacingCarEnum.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\RacingCarEnum.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RacingCarEnum.cpp",
+              "RelativeToolTip": "cppStudy\\RacingCarEnum.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswC4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-07T04:22:11.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\uBB38\uC81C3-1.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C3-1.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\\uBB38\uC81C3-1.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C3-1.cpp",
+              "RelativeToolTip": "cppStudy\\\uBB38\uC81C3-1.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-07T04:05:38.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RacingCarFuncAdd.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RacingCarFuncAdd.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\RacingCarFuncAdd.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RacingCarFuncAdd.cpp",
+              "RelativeToolTip": "cppStudy\\RacingCarFuncAdd.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-07T04:03:40.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RacingCar.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RacingCar.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\RacingCar.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RacingCar.cpp",
+              "RelativeToolTip": "cppStudy\\RacingCar.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-07T03:33:36.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "\uBB38\uC81C2-4(2).cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C2-4(2).cpp",
+              "RelativeDocumentMoniker": "cppStudy\\\uBB38\uC81C2-4(2).cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C2-4(2).cpp",
+              "RelativeToolTip": "cppStudy\\\uBB38\uC81C2-4(2).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T04:07:54.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "\uBB38\uC81C2-4(1).cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C2-4(1).cpp",
+              "RelativeDocumentMoniker": "cppStudy\\\uBB38\uC81C2-4(1).cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C2-4(1).cpp",
+              "RelativeToolTip": "cppStudy\\\uBB38\uC81C2-4(1).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T03:57:57.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StdCPPF.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\StdCPPF.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\StdCPPF.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\StdCPPF.cpp",
+              "RelativeToolTip": "cppStudy\\StdCPPF.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T03:53:50.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "\uBB38\uC81C2-3.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C2-3.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\\uBB38\uC81C2-3.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C2-3.cpp",
+              "RelativeToolTip": "cppStudy\\\uBB38\uC81C2-3.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T03:28:29.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "\uC608\uC81C.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uC608\uC81C.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\\uC608\uC81C.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uC608\uC81C.cpp",
+              "RelativeToolTip": "cppStudy\\\uC608\uC81C.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T03:26:13.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewObject.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\NewObject.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\NewObject.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\NewObject.cpp",
+              "RelativeToolTip": "cppStudy\\NewObject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T03:12:04.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NewDelete.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\NewDelete.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\NewDelete.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\NewDelete.cpp",
+              "RelativeToolTip": "cppStudy\\NewDelete.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T03:09:38.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MemMalFree.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\MemMalFree.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\MemMalFree.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\MemMalFree.cpp",
+              "RelativeToolTip": "cppStudy\\MemMalFree.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T03:04:49.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "\uBB38\uC81C2-2.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C2-2.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\\uBB38\uC81C2-2.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C2-2.cpp",
+              "RelativeToolTip": "cppStudy\\\uBB38\uC81C2-2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T02:57:59.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RefReturnThree.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RefReturnThree.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\RefReturnThree.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RefReturnThree.cpp",
+              "RelativeToolTip": "cppStudy\\RefReturnThree.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T02:54:08.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RefReturnTwo.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RefReturnTwo.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\RefReturnTwo.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RefReturnTwo.cpp",
+              "RelativeToolTip": "cppStudy\\RefReturnTwo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T02:51:16.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RefReturnOne.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RefReturnOne.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\RefReturnOne.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RefReturnOne.cpp",
+              "RelativeToolTip": "cppStudy\\RefReturnOne.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T02:41:50.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "\uBB38\uC81C2-1(3).cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C2-1(3).cpp",
+              "RelativeDocumentMoniker": "cppStudy\\\uBB38\uC81C2-1(3).cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C2-1(3).cpp",
+              "RelativeToolTip": "cppStudy\\\uBB38\uC81C2-1(3).cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T02:00:43.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "\uBB38\uC81C2-1(2).cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C2-1(2).cpp",
+              "RelativeDocumentMoniker": "cppStudy\\\uBB38\uC81C2-1(2).cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C2-1(2).cpp",
+              "RelativeToolTip": "cppStudy\\\uBB38\uC81C2-1(2).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T02:00:25.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "\uBB38\uC81C2-1(1).cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C2-1(1).cpp",
+              "RelativeDocumentMoniker": "cppStudy\\\uBB38\uC81C2-1(1).cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C2-1(1).cpp",
+              "RelativeToolTip": "cppStudy\\\uBB38\uC81C2-1(1).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T01:53:18.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RefSwap.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RefSwap.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\RefSwap.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RefSwap.cpp",
+              "RelativeToolTip": "cppStudy\\RefSwap.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T01:50:05.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RefPtr.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RefPtr.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\RefPtr.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RefPtr.cpp",
+              "RelativeToolTip": "cppStudy\\RefPtr.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T01:44:29.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RefArrElem.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RefArrElem.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\RefArrElem.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\RefArrElem.cpp",
+              "RelativeToolTip": "cppStudy\\RefArrElem.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T01:41:18.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Referen.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\Referen.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\Referen.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\Referen.cpp",
+              "RelativeToolTip": "cppStudy\\Referen.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T01:28:41.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DataTypeBool.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\DataTypeBool.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\DataTypeBool.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\DataTypeBool.cpp",
+              "RelativeToolTip": "cppStudy\\DataTypeBool.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T01:22:21.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TrueAndFalse.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\TrueAndFalse.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\TrueAndFalse.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\TrueAndFalse.cpp",
+              "RelativeToolTip": "cppStudy\\TrueAndFalse.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T01:15:51.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NameAlias.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\NameAlias.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\NameAlias.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\NameAlias.cpp",
+              "RelativeToolTip": "cppStudy\\NameAlias.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T02:56:55.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UsingDcl3.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\UsingDcl3.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\UsingDcl3.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\UsingDcl3.cpp",
+              "RelativeToolTip": "cppStudy\\UsingDcl3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T02:53:59.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UsingDcl2.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\UsingDcl2.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\UsingDcl2.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\UsingDcl2.cpp",
+              "RelativeToolTip": "cppStudy\\UsingDcl2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T02:44:51.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UsingDcl1.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\UsingDcl1.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\UsingDcl1.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\UsingDcl1.cpp",
+              "RelativeToolTip": "cppStudy\\UsingDcl1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T02:41:48.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "\uBB38\uC81C1-4(s2).cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C1-4(s2).cpp",
+              "RelativeDocumentMoniker": "cppStudy\\\uBB38\uC81C1-4(s2).cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C1-4(s2).cpp",
+              "RelativeToolTip": "cppStudy\\\uBB38\uC81C1-4(s2).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T01:17:12.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "\uBB38\uC81C1-4.h",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C1-4.h",
+              "RelativeDocumentMoniker": "cppStudy\\\uBB38\uC81C1-4.h",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C1-4.h",
+              "RelativeToolTip": "cppStudy\\\uBB38\uC81C1-4.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-03T01:14:46.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "\uBB38\uC81C1-4(s1).cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C1-4(s1).cpp",
+              "RelativeDocumentMoniker": "cppStudy\\\uBB38\uC81C1-4(s1).cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C1-4(s1).cpp",
+              "RelativeToolTip": "cppStudy\\\uBB38\uC81C1-4(s1).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T01:10:50.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "NameSp3.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\NameSp3.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\NameSp3.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\NameSp3.cpp",
+              "RelativeToolTip": "cppStudy\\NameSp3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T00:39:10.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "NameSp2.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\NameSp2.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\NameSp2.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\NameSp2.cpp",
+              "RelativeToolTip": "cppStudy\\NameSp2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T00:38:45.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NameSp1.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\NameSp1.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\NameSp1.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\NameSp1.cpp",
+              "RelativeToolTip": "cppStudy\\NameSp1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T00:35:27.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "InlineFunc.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\InlineFunc.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\InlineFunc.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\InlineFunc.cpp",
+              "RelativeToolTip": "cppStudy\\InlineFunc.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T00:26:55.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "\uBB38\uC81C4.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C4.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\\uBB38\uC81C4.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C4.cpp",
+              "RelativeToolTip": "cppStudy\\\uBB38\uC81C4.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T01:51:19.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "\uBB38\uC81C3.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C3.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\\uBB38\uC81C3.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C3.cpp",
+              "RelativeToolTip": "cppStudy\\\uBB38\uC81C3.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T01:46:48.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "\uBB38\uC81C2.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C2.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\\uBB38\uC81C2.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C2.cpp",
+              "RelativeToolTip": "cppStudy\\\uBB38\uC81C2.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T01:42:38.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "\uBB38\uC81C1.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C1.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\\uBB38\uC81C1.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\\uBB38\uC81C1.cpp",
+              "RelativeToolTip": "cppStudy\\\uBB38\uC81C1.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T01:35:18.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "stringIO.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\stringIO.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\stringIO.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\stringIO.cpp",
+              "RelativeToolTip": "cppStudy\\stringIO.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T01:31:17.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BetweenAdder.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\BetweenAdder.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\BetweenAdder.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\BetweenAdder.cpp",
+              "RelativeToolTip": "cppStudy\\BetweenAdder.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T01:24:58.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SimpleAdder.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\SimpleAdder.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\SimpleAdder.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\SimpleAdder.cpp",
+              "RelativeToolTip": "cppStudy\\SimpleAdder.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T01:19:17.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "HelloWorld.cpp",
+              "DocumentMoniker": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\HelloWorld.cpp",
+              "RelativeDocumentMoniker": "cppStudy\\HelloWorld.cpp",
+              "ToolTip": "C:\\Users\\parkj\\source\\repos\\cppStudy\\cppStudy\\HelloWorld.cpp",
+              "RelativeToolTip": "cppStudy\\HelloWorld.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T01:13:40.759Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

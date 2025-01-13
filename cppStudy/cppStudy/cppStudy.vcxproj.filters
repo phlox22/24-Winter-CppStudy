@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\1">
+      <UniqueIdentifier>{586890c6-d675-45c4-9691-a03dbbd18ce5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\1\1-1">
+      <UniqueIdentifier>{929a4d32-71c2-453a-aa72-29ce5f462464}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\1\1-2">
+      <UniqueIdentifier>{f8ef9422-501b-44f4-94c0-218a22846e1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\1\1-3">
+      <UniqueIdentifier>{f4caaa06-763c-43da-ab54-0ee1842449ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\1\1-4">
+      <UniqueIdentifier>{99ea17a4-2c4d-4d7a-96d3-52ab8669d9f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\1\1-5">
+      <UniqueIdentifier>{4301ab24-c261-4aed-9714-c583ed7530a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\1\1-6%28추후%29">
+      <UniqueIdentifier>{06c8e907-8e55-4428-972d-f08761c886bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2">
+      <UniqueIdentifier>{f864a8e8-0e48-4c30-a77e-8731239191cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2\2-1">
+      <UniqueIdentifier>{90448845-0d53-459a-b4a1-8883d0b6cc84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2\2-2">
+      <UniqueIdentifier>{9eed1918-947e-41bf-b77a-22f42928553b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2\2-3">
+      <UniqueIdentifier>{df64c643-6262-43d3-9ae1-075ad6884dc7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2\2-4">
+      <UniqueIdentifier>{a4cdcba5-6f6b-42b1-b386-157716774646}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2\2-5">
+      <UniqueIdentifier>{ec983abe-fc7d-4638-9195-652e7295d4b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2\2-6">
+      <UniqueIdentifier>{ae0e0460-4556-474e-85bd-0e438e03f5dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\3">
+      <UniqueIdentifier>{5e1d1258-cb1f-47b6-b479-5a9021d462f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\3\3-2">
+      <UniqueIdentifier>{a76f79c4-45ab-4478-a572-faba7d2c1d5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\3\3-3%28추후%29">
+      <UniqueIdentifier>{d294debf-17b5-4d51-a35a-33f7a49630cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\3\3-1">
+      <UniqueIdentifier>{74f0481c-40c1-4129-abdb-d61f00a8ba1a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="HelloWorld.cpp">
+      <Filter>소스 파일\1\1-1</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleAdder.cpp">
+      <Filter>소스 파일\1\1-1</Filter>
+    </ClCompile>
+    <ClCompile Include="BetweenAdder.cpp">
+      <Filter>소스 파일\1\1-1</Filter>
+    </ClCompile>
+    <ClCompile Include="stringIO.cpp">
+      <Filter>소스 파일\1\1-1</Filter>
+    </ClCompile>
+    <ClCompile Include="문제1-1%281%29.cpp">
+      <Filter>소스 파일\1\1-1</Filter>
+    </ClCompile>
+    <ClCompile Include="문제1-1%282%29.cpp">
+      <Filter>소스 파일\1\1-1</Filter>
+    </ClCompile>
+    <ClCompile Include="문제1-1%283%29.cpp">
+      <Filter>소스 파일\1\1-1</Filter>
+    </ClCompile>
+    <ClCompile Include="문제1-1%284%29.cpp">
+      <Filter>소스 파일\1\1-1</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionOverloding.cpp">
+      <Filter>소스 파일\1\1-2</Filter>
+    </ClCompile>
+    <ClCompile Include="문제1-2.cpp">
+      <Filter>소스 파일\1\1-2</Filter>
+    </ClCompile>
+    <ClCompile Include="DefaultValue1.cpp">
+      <Filter>소스 파일\1\1-3</Filter>
+    </ClCompile>
+    <ClCompile Include="DefaultValue2.cpp">
+      <Filter>소스 파일\1\1-3</Filter>
+    </ClCompile>
+    <ClCompile Include="DefaultValue3.cpp">
+      <Filter>소스 파일\1\1-3</Filter>
+    </ClCompile>
+    <ClCompile Include="문제1-3(1).cpp">
+      <Filter>소스 파일\1\1-3</Filter>
+    </ClCompile>
+    <ClCompile Include="InlineFunc.cpp">
+      <Filter>소스 파일\1\1-4</Filter>
+    </ClCompile>
+    <ClCompile Include="NameSp1.cpp">
+      <Filter>소스 파일\1\1-5</Filter>
+    </ClCompile>
+    <ClCompile Include="NameSp2.cpp">
+      <Filter>소스 파일\1\1-5</Filter>
+    </ClCompile>
+    <ClCompile Include="NameSp3.cpp">
+      <Filter>소스 파일\1\1-5</Filter>
+    </ClCompile>
+    <ClCompile Include="문제1-4%28s1%29.cpp">
+      <Filter>소스 파일\1\1-5</Filter>
+    </ClCompile>
+    <ClCompile Include="문제1-4(s2).cpp">
+      <Filter>소스 파일\1\1-5</Filter>
+    </ClCompile>
+    <ClCompile Include="UsingDcl1.cpp">
+      <Filter>소스 파일\1\1-5</Filter>
+    </ClCompile>
+    <ClCompile Include="UsingDcl2.cpp">
+      <Filter>소스 파일\1\1-5</Filter>
+    </ClCompile>
+    <ClCompile Include="UsingDcl3.cpp">
+      <Filter>소스 파일\1\1-5</Filter>
+    </ClCompile>
+    <ClCompile Include="NameAlias.cpp">
+      <Filter>소스 파일\1\1-5</Filter>
+    </ClCompile>
+    <ClCompile Include="TrueAndFalse.cpp">
+      <Filter>소스 파일\2\2-2</Filter>
+    </ClCompile>
+    <ClCompile Include="DataTypeBool.cpp">
+      <Filter>소스 파일\2\2-2</Filter>
+    </ClCompile>
+    <ClCompile Include="Referen.cpp">
+      <Filter>소스 파일\2\2-3</Filter>
+    </ClCompile>
+    <ClCompile Include="RefArrElem.cpp">
+      <Filter>소스 파일\2\2-3</Filter>
+    </ClCompile>
+    <ClCompile Include="RefPtr.cpp">
+      <Filter>소스 파일\2\2-3</Filter>
+    </ClCompile>
+    <ClCompile Include="RefSwap.cpp">
+      <Filter>소스 파일\2\2-4</Filter>
+    </ClCompile>
+    <ClCompile Include="문제2-1(1).cpp">
+      <Filter>소스 파일\2\2-4</Filter>
+    </ClCompile>
+    <ClCompile Include="문제2-1(2).cpp">
+      <Filter>소스 파일\2\2-4</Filter>
+    </ClCompile>
+    <ClCompile Include="문제2-1(3).cpp">
+      <Filter>소스 파일\2\2-4</Filter>
+    </ClCompile>
+    <ClCompile Include="RefReturnOne.cpp">
+      <Filter>소스 파일\2\2-4</Filter>
+    </ClCompile>
+    <ClCompile Include="RefReturnTwo.cpp">
+      <Filter>소스 파일\2\2-4</Filter>
+    </ClCompile>
+    <ClCompile Include="RefReturnThree.cpp">
+      <Filter>소스 파일\2\2-4</Filter>
+    </ClCompile>
+    <ClCompile Include="문제2-2.cpp">
+      <Filter>소스 파일\2\2-4</Filter>
+    </ClCompile>
+    <ClCompile Include="MemMalFree.cpp">
+      <Filter>소스 파일\2\2-5</Filter>
+    </ClCompile>
+    <ClCompile Include="NewDelete.cpp">
+      <Filter>소스 파일\2\2-5</Filter>
+    </ClCompile>
+    <ClCompile Include="NewObject.cpp">
+      <Filter>소스 파일\2\2-5</Filter>
+    </ClCompile>
+    <ClCompile Include="예제.cpp">
+      <Filter>소스 파일\2\2-5</Filter>
+    </ClCompile>
+    <ClCompile Include="문제2-3.cpp">
+      <Filter>소스 파일\2\2-5</Filter>
+    </ClCompile>
+    <ClCompile Include="StdCPPF.cpp">
+      <Filter>소스 파일\2\2-6</Filter>
+    </ClCompile>
+    <ClCompile Include="문제2-4(1).cpp">
+      <Filter>소스 파일\2\2-6</Filter>
+    </ClCompile>
+    <ClCompile Include="문제2-4(2).cpp">
+      <Filter>소스 파일\2\2-6</Filter>
+    </ClCompile>
+    <ClCompile Include="RacingCar.cpp">
+      <Filter>소스 파일\3\3-1</Filter>
+    </ClCompile>
+    <ClCompile Include="RacingCarFuncAdd.cpp">
+      <Filter>소스 파일\3\3-1</Filter>
+    </ClCompile>
+    <ClCompile Include="문제3-1.cpp">
+      <Filter>소스 파일\3\3-1</Filter>
+    </ClCompile>
+    <ClCompile Include="RacingCarEnum.cpp">
+      <Filter>소스 파일\3\3-1</Filter>
+    </ClCompile>
+    <ClCompile Include="RacingCarOuterFunc.cpp">
+      <Filter>소스 파일\3\3-1</Filter>
+    </ClCompile>
+    <ClCompile Include="RacingCarClassBase.cpp">
+      <Filter>소스 파일\3\3-2</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="문제1-4.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
